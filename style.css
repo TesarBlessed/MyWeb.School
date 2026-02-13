@@ -165,10 +165,11 @@ body {
 }
 
 #Видик{
+    margin:auto;
+    width: 90%;
+    height: 90%;
+    aspect-ratio:16/9;
     display: block;
-    margin: auto;
-    height: 100%;
-    width: 100%;
 }
 
 #FOOD{
